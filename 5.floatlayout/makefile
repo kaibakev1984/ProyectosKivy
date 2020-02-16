@@ -1,4 +1,4 @@
-CC = python3
+CC = python
 EDIT = vim
 ARCHPY = main.py
 ARCHKV = main.kv
